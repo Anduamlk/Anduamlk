@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Reverse Eng101, Penetest etc..**
 
-- 💬 Ask me about **NodeJs, ReactJs, NextJs and maybe others**
+- 💬 Ask me about **NodeJs, NestJS, TypeScript, ReactJs, NextJs and maybe others**
 
 - 📫 How to reach me **ghostcblock@gmail.com**
 
