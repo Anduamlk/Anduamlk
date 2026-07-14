@@ -404,6 +404,39 @@
   </table>
 </div>
 
+### 🔍 OSINT & Reconnaissance
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://img.icons8.com/fluency/48/000000/maltego.png" width="40" height="40"/>
+        <br/>Maltego
+      </td>
+      <td align="center" width="100">
+        <img src="https://img.icons8.com/fluency/48/000000/shodan.png" width="40" height="40"/>
+        <br/>Shodan
+      </td>
+      <td align="center" width="100">
+        <img src="https://img.icons8.com/fluency/48/000000/theharvester.png" width="40" height="40"/>
+        <br/>TheHarvester
+      </td>
+      <td align="center" width="100">
+        <img src="https://img.icons8.com/fluency/48/000000/recon.png" width="40" height="40"/>
+        <br/>Recon-ng
+      </td>
+      <td align="center" width="100">
+        <img src="https://img.icons8.com/fluency/48/000000/amass.png" width="40" height="40"/>
+        <br/>Amass
+      </td>
+      <td align="center" width="100">
+        <img src="https://img.icons8.com/fluency/48/000000/sublist3r.png" width="40" height="40"/>
+        <br/>Sublist3r
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ## 🔥 Featured Projects
@@ -573,6 +606,19 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anduamlk)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/anduamlk)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/anduamlk)
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+<div align="center">
+  
+If you find my work helpful, consider supporting me:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anduamlk)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anduamlk)
 
 </div>
 
